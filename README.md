@@ -1,5 +1,5 @@
 # Ejecución(anaconda navigator-spyder,google colab)
-Requisitos
+## Requisitos
 Tener instalados las siguientes bibliotecas(en caso de aplicación de escritorio)
 * torch
 * torchvision
